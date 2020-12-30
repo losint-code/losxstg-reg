@@ -1,0 +1,15 @@
+{
+  "prefix" : "PREFIXINIZ",
+  "kayitsiz": "KAYITSIZ ROL ID",
+  "sahip" : "SAHIP ID",
+  "token" : "TOKEN",
+  "teyitçi" : "<@&REGISTER ROL ID>",
+  "kayıtkanal" : "KAYIT KANAL ID",
+  "sunucuid" : "SUNUCU ID",
+  "tagrol" : "TAG ROL ID",
+  "taglog" : "TAG LOG ID",
+  "chat" : "CHAT KANAL ID",
+  "savelog" : "SAVELOG KANAL ID",
+  "erkekrol" : "ERKEK ROL ID",
+  "kadınrol" : "KADIN ROL ID"
+}
